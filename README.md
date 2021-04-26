@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pkwlim
-- 👀 I’m interested in econometircs and data analysis
+- 👀 I’m interested in econometircs and data analytics
 - 🌱 I’m currently learning Machine Learning in pytorch, Data Analysis in R, and Data Visualization in Tableau
 - 💞️ I’m looking to collaborate on simple machine learning projects or economic analysis projects
 - 📫 Email: paul.kw.lim@gmail.com
